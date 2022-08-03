@@ -1,11 +1,11 @@
-import Header from './components/Header'
+import Header from "./components/Header";
 
 const App = () => {
   return (
     <div className="container">
-      <Header title='Task Tracker' />
+      <Header title="Task Tracker" />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
